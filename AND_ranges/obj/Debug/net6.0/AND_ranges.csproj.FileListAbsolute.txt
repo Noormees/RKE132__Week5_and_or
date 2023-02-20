@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\bin\Debug\net6.0\AND_ranges.exe
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\bin\Debug\net6.0\AND_ranges.deps.json
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\bin\Debug\net6.0\AND_ranges.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\bin\Debug\net6.0\AND_ranges.dll
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\bin\Debug\net6.0\AND_ranges.pdb
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.dll
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\refint\AND_ranges.dll
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.pdb
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\AND_ranges.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week5_Logical_Operators\AND_ranges\obj\Debug\net6.0\ref\AND_ranges.dll
